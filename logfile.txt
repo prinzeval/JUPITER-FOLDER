@@ -1,0 +1,2 @@
+17:18:18-Apr-05-2024,ETL JOB STARTED
+17:18:18-Apr-05-2024,Extract step started
